@@ -1,4 +1,4 @@
 # VRV_Assignment
-I have solve all given questions.
-Successfully analyzed the log data!
+I have solved all given questions
+and successfully analyzed the log data!
 
